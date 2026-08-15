@@ -20,14 +20,7 @@
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=amhirdaykapil&style=flat-square&label=PROFILE%20VIEWS">
-<img src="https://img.shields.io/github/followers/amhirdaykapil?style=flat-square&label=FOLLOWERS">
-
 </div>
-
----
 
 ---
 
