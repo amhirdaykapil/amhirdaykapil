@@ -29,37 +29,6 @@
 
 ---
 
-<div align="center">
-
-# Hi, I'm Hirday Kapil 👋
-
-**Full-Stack Developer · Gen AI / RAG Engineer · AI/ML Engineer · B.Tech CSE**
-
-<a href="https://amhirdaykapil.github.io">
-<img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge">
-</a>
-<a href="https://www.linkedin.com/in/amhirdaykapil/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/amhirdaykapil">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-58-9B2DEB?style=flat-square">
-<img src="https://img.shields.io/badge/FOLLOWERS-11-0088CC?style=flat-square">
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
