@@ -24,8 +24,6 @@ Building real-world products with **Code, AI & Design**
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=amhirdaykapil&style=for-the-badge&color=blueviolet">
 <img src="https://img.shields.io/github/followers/amhirdaykapil?style=for-the-badge&color=0e75b6">
 
