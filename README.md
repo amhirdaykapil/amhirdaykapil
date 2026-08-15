@@ -33,11 +33,9 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nextjs,nodejs,express,mysql,mongodb,postgres,docker,kubernetes,aws,git,figma,vscode&perline=15" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,flask,tensorflow,numpy,pandas,mysql,mongodb,git,github,vscode,figma&perline=15" />
 
 </div>
-
----
 
 ---
 
