@@ -1,324 +1,155 @@
 <div align="center">
 
-# Hi, I'm Caesio 👋
+# Hi, I'm Hirday Kapil 👋
 
-**Product Builder · Developer · AI/ML Learner**
+**Full-Stack Developer · Gen AI / RAG Engineer · AI/ML Engineer · B.Tech CSE**
 
-B.Tech CSE (AI & ML) · Building Products with Code, AI & Design
+<a href="https://amhirdaykapil.github.io">
+<img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/amhirdaykapil/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/amhirdaykapil">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/amhirdaykapil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+<br><br>
+
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-58-9B2DEB?style=flat-square">
+<img src="https://img.shields.io/badge/FOLLOWERS-11-0088CC?style=flat-square">
 
 </div>
-
----
-
-## 🚀 About Me
-
-I'm a **B.Tech CSE student specializing in AI & ML**, interested in building real-world products that combine **software, artificial intelligence, and design**.
-
-I'm currently focused on strengthening my foundations in **AI/ML and software engineering** while building projects that solve actual problems rather than just following tutorials.
-
-* 🧠 Currently learning **AI/ML from fundamentals**
-* 🛠️ Building real-world software products and tools
-* 🤖 Exploring **Generative AI, LLMs, RAG, and AI applications**
-* 💻 Comfortable working with **Python, Java, C++, HTML, CSS, and JavaScript**
-* 📦 Building **PackMate ERP**, a production-oriented ERP for a corrugated box manufacturing business
-* 🎨 Interested in **UI/UX, product design, and AI-powered experiences**
-* 🌱 Currently working towards becoming a stronger **Software Engineer + AI/ML Developer**
-* 🚀 Long-term goal: build useful products from idea → design → code → deployment
-
----
-
-## 🧠 My AI Learning Journey
-
-I'm currently learning AI step-by-step instead of jumping directly into frameworks.
-
-```text
-Python & Data Handling
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-NLP
-        ↓
-Transformers & LLMs
-        ↓
-RAG & Vector Databases
-        ↓
-Fine-Tuning
-        ↓
-Production AI Applications
-```
-
-### Currently Learning
-
-* Machine Learning fundamentals
-* NumPy & Pandas
-* Scikit-learn
-* Neural Networks
-* Deep Learning
-* NLP
-* LLM fundamentals
-* Generative AI
-* RAG systems
-* AI application development
-
-> Building projects while learning — not just collecting certificates.
-
----
-
-## 🛠️ Tech Stack
-
-```python
-caesio = {
-    "languages": [
-        "Python",
-        "Java",
-        "C++",
-        "JavaScript"
-    ],
-
-    "web": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ],
-
-    "backend": [
-        "Flask",
-        "REST APIs"
-    ],
-
-    "ai_ml": [
-        "NumPy",
-        "Pandas",
-        "Scikit-learn",
-        "TensorFlow"
-    ],
-
-    "data": [
-        "SQL",
-        "Power BI",
-        "Excel"
-    ],
-
-    "tools": [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma"
-    ],
-
-    "currently_learning": [
-        "Machine Learning",
-        "Deep Learning",
-        "Generative AI",
-        "LLMs",
-        "RAG"
-    ]
-}
-```
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,flask,tensorflow,mysql,git,github,vscode,figma" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📦 PackMate ERP
-
-**Production-oriented ERP for corrugated box manufacturing**
-
-`Python` `Flask` `SQL` `JavaScript` `ERP`
-
-A real-world ERP system being built for a corrugated box manufacturing business.
-
-#### Key Areas
-
-* 📊 Box rate calculation
-* 📦 Product & order management
-* 💰 Manufacturing-related calculations
-* 🧾 Business workflow management
-* 📱 Mobile application
-* 🌐 Web-based system
-* 🔐 Designed with scalability and real-world usage in mind
-
-**Goal:** Build an actual production-ready business product rather than a simple college CRUD application.
-
----
-
-### 🤖 SkillGap AI
-
-**AI-powered Resume / Skill Analysis Platform**
-
-`Python` `AI/ML` `NLP` `Streamlit`
-
-An AI-focused project exploring how resumes and skills can be analyzed to identify gaps between a candidate's current profile and desired career roles.
-
-#### Exploring
-
-* Resume parsing
-* Skill extraction
-* AI-based analysis
-* Career-oriented recommendations
-* NLP-based processing
-
----
-
-### 🎣 AutoFishing Vertex
-
-**Minecraft Fabric Mod**
-
-`Java` `Minecraft Fabric` `Fabric API`
-
-A Minecraft automation mod focused on building a reliable fishing system with safety-oriented behavior.
-
-#### Features
-
-* 🎣 Automatic fishing
-* 🛡️ Rod durability protection
-* 🔄 Automatic recasting
-* 🎒 Item-slot safety checks
-* 📍 Teleport detection
-* ⚙️ State-based fishing logic
-* 🧩 Fabric mod architecture
-
-Built as a hands-on project to understand Java, Minecraft modding, event/tick systems, and software architecture.
-
----
-
-### 🌱 Solar Bloom
-
-**Experimental Solarpunk Minecraft Mod**
-
-`Java` `Minecraft Fabric`
-
-A separate Minecraft mod concept focused on combining **nature, restoration, and technology** into a solarpunk-inspired gameplay experience.
-
-> **Power Nature. Restore Life.**
-
-Currently exploring gameplay systems, mechanics, and implementation possibilities.
-
----
-
-## 🎨 Design + Product Building
-
-I enjoy working across the complete product process:
-
-```text
-Idea
- ↓
-Problem
- ↓
-Research
- ↓
-UI / UX
- ↓
-Development
- ↓
-AI Integration
- ↓
-Testing
- ↓
-Deployment
-```
-
-I don't want to be limited to just writing code.
-
-My goal is to become a **Product Builder** who can take an idea and turn it into a working product.
-
----
-
-## 📚 What I'm Working On
-
-### AI / ML
-
-* [ ] Machine Learning fundamentals
-* [ ] Build first ML models
-* [ ] Understand neural networks
-* [ ] Learn Deep Learning
-* [ ] Learn NLP
-* [ ] Understand Transformers
-* [ ] Build an LLM-powered application
-* [ ] Build a RAG system
-* [ ] Experiment with fine-tuning
-
-### Software Engineering
-
-* [ ] Strengthen DSA
-* [ ] Improve backend development
-* [ ] Learn system design fundamentals
-* [ ] Build production-ready APIs
-* [ ] Learn Docker & deployment
-
-### Product Building
-
-* [ ] Improve PackMate ERP
-* [ ] Build more AI-powered products
-* [ ] Improve UI/UX
-* [ ] Deploy projects publicly
-* [ ] Build a stronger portfolio
-
----
-
-## 🎯 Current Focus
-
-```text
-                 BUILD
-                   ▲
-                   │
-                   │
-      DESIGN ◄─────┼─────► CODE
-                   │
-                   │
-                   ▼
-                   AI
-```
-
-I'm currently focused on combining:
-
-**Design + Software Engineering + AI**
-
-to build products that are actually useful.
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amhirdaykapil&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=amhirdaykapil&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhirdaykapil&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-* LLMs
-* RAG
-* Backend Development
-* Product Engineering
-* UI/UX
-* Minecraft Mod Development
 
 ---
 
 <div align="center">
 
-### 🚀 Learn. Build. Ship. Repeat.
+# Hi, I'm Hirday Kapil 👋
 
-**Building products while learning the technology behind them.**
+**Full-Stack Developer · Gen AI / RAG Engineer · AI/ML Engineer · B.Tech CSE**
+
+<a href="https://amhirdaykapil.github.io">
+<img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/amhirdaykapil/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/amhirdaykapil">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-58-9B2DEB?style=flat-square">
+<img src="https://img.shields.io/badge/FOLLOWERS-11-0088CC?style=flat-square">
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 💼 Experience
+
+### 📦 Billu Solutions — Product Builder
+**PackMate ERP · June, 2026 – Present**
+
+- Building a production-focused ERP system for a corrugated box manufacturing business
+- Developing workflows for **product management, rate calculation, billing and business operations**
+- Working across **Python, Flask, JavaScript, SQL and UI/UX**
+- Designing the system with **scalability, usability and real-world business requirements** in mind
+
+### 🤖 AI / ML Projects — Independent Developer
+**2024 – Present**
+
+- Built practical projects across **Machine Learning, AI, automation and data analysis**
+- Worked with **Python, TensorFlow, NumPy, Pandas and Scikit-learn**
+- Exploring **Generative AI, RAG systems and LLM-powered applications**
+- Building and experimenting with **developer tools and Minecraft Fabric mods**
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 [PackMate ERP]
+**Production ERP for Corrugated Box Manufacturing**
+
+`Python` `Flask` `JavaScript` `SQL` `HTML/CSS`
+
+- Production-focused ERP built for a real-world manufacturing business
+- Includes **rate calculation, product management and business workflows**
+- Designed to evolve into a scalable **web + mobile business platform**
+
+### ⛏️ [AutoFishing Vertex]
+**Minecraft Fabric Mod**
+
+`Java` `Fabric` `Minecraft` `Java 21`
+
+- Gameplay utility mod built for the **Fabric modding ecosystem**
+- Includes automation logic, safety checks and durability protection
+
+---
+
+## 📚 Currently Exploring
+
+- 🤖 Generative AI & LLM Applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧠 Advanced Machine Learning & NLP
+- ⚙️ Backend Development & REST APIs
+- 🏗️ System Design & Scalable Applications
+- ☁️ Cloud Deployment & DevOps
+
+<br>
+
+<div align="center">
+
+**⭐ From building real-world products to exploring AI — always learning & building.**
+
+</div>
+
+---
