@@ -2,7 +2,7 @@
 
 # Hi, I'm Hirday Kapil 👋
 
-**Full-Stack Developer · Gen AI / RAG Engineer · AI/ML Engineer · B.Tech CSE**
+**Full-Stack Developer · Gen AI / RAG Engineer · AI/ML Engineer · B.Tech CSE (AI & ML) @ COER University**
 
 <a href="https://amhirdaykapil.github.io">
 <img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge">
