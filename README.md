@@ -20,12 +20,14 @@
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-58-9B2DEB?style=flat-square">
-<img src="https://img.shields.io/badge/FOLLOWERS-11-0088CC?style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=amhirdaykapil&style=flat-square&label=PROFILE%20VIEWS">
+<img src="https://img.shields.io/github/followers/amhirdaykapil?style=flat-square&label=FOLLOWERS">
 
 </div>
+
+---
 
 ---
 
@@ -33,7 +35,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,flask,tensorflow,numpy,pandas,mysql,mongodb,git,github,vscode,figma&perline=15" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,flask,tensorflow,mysql,mongodb,git,github,vscode,figma&perline=14" />
 
 </div>
 
