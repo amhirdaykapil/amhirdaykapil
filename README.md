@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Caesio 👋
+# Hi, I'm Hirday Kapil 👋
 
 **Product Builder · Developer · AI/ML Learner**
 
