@@ -13,10 +13,10 @@
 <a href="https://github.com/amhirdaykapil">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/amhirdaykapil">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:amhirdaykapil@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
