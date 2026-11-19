@@ -1,95 +1,119 @@
+
 <div align="center">
 
-# Hi, I'm Hirday Kapil 👋
+# Hirday Kapil
 
-**Full-Stack Developer · Gen AI / RAG Engineer · AI/ML Engineer · B.Tech CSE (AI & ML) @ COER University**
+**Full-Stack Developer | AI/ML Engineer | GenAI & RAG**
 
-<a href="https://amhirdaykapil.github.io">
-<img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge">
-</a>
-<a href="https://www.linkedin.com/in/amhirdaykapil/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/amhirdaykapil">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://leetcode.com/amhirdaykapil">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-<a href="mailto:amhirdaykapil@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+B.Tech CSE (Artificial Intelligence & Machine Learning)  
+COER University, Roorkee
+
+[Portfolio](https://amhirdaykapil.github.io) · [LinkedIn](https://www.linkedin.com/in/amhirdaykapil/) · [LeetCode](https://leetcode.com/amhirdaykapil) · [Email](mailto:amhirdaykapil@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-<div align="left">
+I'm a Computer Science student focused on building practical software products and intelligent applications.
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,flask,tensorflow,mysql,mongodb,git,github,vscode,figma&perline=14" />
+My interests lie at the intersection of full-stack development, artificial intelligence, and backend engineering. I enjoy taking ideas from concept to implementation, working across the stack, and solving problems through clean, maintainable code.
 
-</div>
+Currently working on production-oriented software systems while exploring Generative AI, Retrieval-Augmented Generation, and scalable application architecture.
 
 ---
 
-## 💼 Experience
+## Technical Skills
 
-### 📦 Billu Solutions — Product Builder
-**PackMate ERP · June, 2026 – Present**
+**Languages**  
+Python · Java · C++ · JavaScript · SQL
 
-- Building a production-focused ERP system for a corrugated box manufacturing business
-- Developing workflows for **product management, rate calculation, billing and business operations**
-- Working across **Python, Flask, JavaScript, SQL and UI/UX**
-- Designing the system with **scalability, usability and real-world business requirements** in mind
+**Frontend Development**  
+HTML5 · CSS3 · JavaScript · Responsive UI Development
 
-### 🤖 AI / ML Projects — Independent Developer
+**Backend Development**  
+Python · Flask · REST APIs · Server-side Development
+
+**AI / Machine Learning**  
+TensorFlow · NumPy · Pandas · Scikit-learn · NLP · Generative AI · RAG
+
+**Databases**  
+MySQL · MongoDB
+
+**Tools & Platforms**  
+Git · GitHub · VS Code · Figma · Linux
+
+---
+
+## Experience
+
+### Billu Solutions — Product Builder
+**PackMate ERP | June 2026 – Present**
+
+- Building a production-focused ERP system for a corrugated box manufacturing business.
+- Developing core business workflows covering product management, rate calculation, billing, and operations.
+- Working across Python, Flask, JavaScript, SQL, and frontend development.
+- Focusing on practical usability, maintainable architecture, and real-world business requirements.
+
+### Independent Developer — AI / ML
 **2024 – Present**
 
-- Built practical projects across **Machine Learning, AI, automation and data analysis**
-- Worked with **Python, TensorFlow, NumPy, Pandas and Scikit-learn**
-- Exploring **Generative AI, RAG systems and LLM-powered applications**
-- Building and experimenting with **developer tools and Minecraft Fabric mods**
+- Developing practical projects involving machine learning, automation, and data analysis.
+- Working with Python and its machine learning ecosystem.
+- Exploring LLM-powered applications, Generative AI, and Retrieval-Augmented Generation.
+- Experimenting with developer tools and Minecraft Fabric mod development.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📦 [PackMate ERP]
+### PackMate ERP
 **Production ERP for Corrugated Box Manufacturing**
 
-`Python` `Flask` `JavaScript` `SQL` `HTML/CSS`
+`Python` `Flask` `JavaScript` `SQL` `HTML` `CSS`
 
-- Production-focused ERP built for a real-world manufacturing business
-- Includes **rate calculation, product management and business workflows**
-- Designed to evolve into a scalable **web + mobile business platform**
+A business-oriented ERP application designed to streamline operations in the corrugated box manufacturing industry.
 
-### ⛏️ [AutoFishing Vertex]
+- Product management and business workflows.
+- Automated rate calculation.
+- Billing and operational management.
+- Designed with future scalability and platform expansion in mind.
+
+### AutoFishing Vertex
 **Minecraft Fabric Mod**
 
 `Java` `Fabric` `Minecraft` `Java 21`
 
-- Gameplay utility mod built for the **Fabric modding ecosystem**
-- Includes automation logic, safety checks and durability protection
+A gameplay utility mod developed for the Minecraft Fabric ecosystem.
+
+- Fishing automation logic.
+- Safety checks and durability protection.
+- Focus on reliable gameplay automation and performance.
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
-- 🤖 Generative AI & LLM Applications
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧠 Advanced Machine Learning & NLP
-- ⚙️ Backend Development & REST APIs
-- 🏗️ System Design & Scalable Applications
-- ☁️ Cloud Deployment & DevOps
+- Generative AI and LLM-powered applications
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models and NLP
+- Backend engineering and REST API design
+- System design and scalable architectures
+- Cloud deployment and DevOps
 
-<br>
+---
+
+## Problem Solving
+
+I regularly work on improving my programming and problem-solving skills through algorithmic challenges and hands-on development.
+
+[LeetCode Profile](https://leetcode.com/amhirdaykapil)
+
+---
 
 <div align="center">
 
-**⭐ From building real-world products to exploring AI — always learning & building.**
+**Building software. Exploring AI. Solving real-world problems.**
 
 </div>
-
----
