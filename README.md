@@ -27,7 +27,7 @@ Currently working on production-oriented software systems while exploring Genera
 ## Technical Skills
 
 **Languages**  
-Python · Java · C++ · JavaScript · SQL
+Python · C · JavaScript · SQL
 
 **Frontend Development**  
 HTML5 · CSS3 · JavaScript · Responsive UI Development
